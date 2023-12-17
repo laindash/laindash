@@ -1,14 +1,14 @@
-[![MasterHead](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fm6ptifyhde321.gif)]
+[![MasterHead](https://i.redd.it/m6ptifyhde321.gif)](https://github.com/laindash)
 <h1 align="center">Hi 👋, I'm Daniil Semenkov (Solyanochka Laindash as a nickname)</h1>
 <h3 align="center">Beginner software developer (possibly a game developer) from Russia</h3>
 <img align="right" alt="LainTyping" width="400" src="https://c.tenor.com/5Zgn-mYEfyUAAAAC/serial-experiments-lain-lain.gif">
-
+<h3 align="left">Connect with me:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laindash&label=Profile%20views&color=0e75b6&style=flat" alt="laindash_views" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laindash" alt="laindash" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Interesting Links:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/laindash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/laindash" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/laindash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/laindash/" height="30" width="40" /></a>
