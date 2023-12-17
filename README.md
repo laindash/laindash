@@ -3,7 +3,7 @@
 <h3 align="center">Beginner software developer (possibly a game developer) from Russia</h3>
 <img align="right" alt="LainTyping" width="400" src="https://c.tenor.com/5Zgn-mYEfyUAAAAC/serial-experiments-lain-lain.gif">
 <h3 align="left">Connect with me:</h3>
-<a href="https://t.me/laindash" target="blank"> <img style="margin: 0 10px 0 10px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"> /></a>
+<a href="https://t.me/laindash" target="blank"> <img style="margin: 0 10px 0 10px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 <h3 align="left">Interesting Links:</h3>
 <p align="left">
