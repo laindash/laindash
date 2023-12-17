@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laindash&label=Profile%20views&color=0e75b6&style=flat" alt="laindash_views" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laindash" alt="laindash" /></a> </p>
-
 <h3 align="left">Interesting Links:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/laindash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/laindash" height="30" width="40" /></a>
