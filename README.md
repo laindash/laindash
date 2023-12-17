@@ -66,8 +66,8 @@
 
 <h3 align="left">Interesting Links:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/laindash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/laindash" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/laindash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/laindash/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/laindash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/laindash" height="30" width="40" /></a>
+<a href="https://leetcode.com/laindash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/laindash/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/laindash" target="blank"><img align="center" src="https://www.svgrepo.com/show/330186/codeforces.svg" alt="https://codeforces.com/profile/laindash" height="30" width="40" /></a>
 </p>
 
@@ -77,6 +77,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laindash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=laindash&hide_border=true&card_width=338&theme=dracula" />
 </div>
-
-<img src="https://raw.githubusercontent.com/laindash/laindash/output/snake.svg" alt="Snake animation" />
-
