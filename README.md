@@ -64,7 +64,7 @@
 </p>
 
 
-<h3 align="left">Interesting links:</h3>
+<h3 align="left">Interesting links(in plans):</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/profile/laindash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/laindash" height="30" width="40" /></a>
 <a href="https://leetcode.com/laindash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/laindash/" height="30" width="40" /></a>
