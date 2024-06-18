@@ -1,6 +1,6 @@
 [![MasterHead](https://i.redd.it/m6ptifyhde321.gif)](https://github.com/laindash)
 <h1 align="center">Daniil Semenkov (Solyanochka Laindash as an alias)</h1>
-<h3 align="center">Beginner software developer and more/h3>
+<h3 align="center">Beginner software developer and more </h3>
 <img align="right" alt="LainTyping" width="400" src="https://c.tenor.com/5Zgn-mYEfyUAAAAC/serial-experiments-lain-lain.gif">
 
 <h3 align="left">Connect with me:</h3>
